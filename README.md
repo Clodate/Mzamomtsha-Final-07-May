@@ -1,1 +1,2 @@
 # Mzamomtsha-Final-07-May
+This is a website of a school that needed to upgrade because initially the school only accommodated grade 1 to grade 7 school learners, but due to inflation and other aspects, the school had to open its doors for all pupils from grade 1 to grade 12, and as a result more infrastructure and other necessities were needed. We built a school website after talking to all stakeholders of the school and all their requirements of how the new school should be met where met, as we bulit the website for the school.
